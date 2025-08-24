@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "fast-querystring": "^1.1.1",
-    "mitata": "^0.1.6"
+    "mitata": "^0.1.14"
   }
 }
